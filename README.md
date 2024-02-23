@@ -1,32 +1,40 @@
-# 👋 Salut, je suis Toma CHANG
+# Salut, je suis Toma CHANG! 👋
 
-Je suis un étudiant passionné en informatique à l'ESGI Paris, en 3ème année d'Ingénierie du web, spécialisé dans le développement et les technologies émergentes. Actuellement basé en Île-de-France.
+## À propos de moi
+Je suis un développeur passionné basé en Île-de-France. Actuellement étudiant en Ingénierie du Web à l'ESGI Paris, je suis spécialisé dans le développement Full-Stack, ainsi que dans l'intégration de solutions innovantes.
 
-## 🛠️ Compétences Techniques
+## Compétences Techniques 🚀
 
-- **Langages :** PHP, JS, HTML & CSS, Java
-- **Frameworks :** Laravel, Symfony, Bootstrap, Tailwind
-- **Outils :** GitHub, Git, Docker, Linux, MySQL, SQL, Postgres
-- **Approches :** POO, MVC, UML, MCD
+### Langages de Programmation
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java"/>
+</p>
 
-![Langages](https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif)
+### Frameworks et Outils
+<p align="center">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="100"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/symfony.png" alt="Symfony" width="100"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="100"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="100"/>
+</p>
 
-## 💼 Expériences Professionnelles
+### Bases de Données
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL"/>
+</p>
 
-- **Alternance chez Numericli (2022 - 2023) :** Chargé de développement, conception et développement d'un Intranet.
-- **Stage chez Banque Socredo (2022) :** Développeur d'application web, développement d’un portail applicatif métier.
-
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-## 🎓 Formation
-
-- ESGI Paris, Bachelor en Ingénierie du Web (2023 - 2024)
-- Ensitech, BTS SIO - Solution logicielle et application métier (2021 - 2023)
-
-![Learning](https://media.giphy.com/media/Z9WQLSrsQKH3u/giphy.gif)
-
+### Outils de Développement
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux"/>
+</p>
 ---
 
-💡 Je suis toujours à la recherche de nouvelles opportunités et collaborations. N'hésitez pas à me contacter !
-
-![Contact](https://media.giphy.com/media/l46CixEJ9mB7YDc9y/giphy.gif)
+🌟 Toujours ouvert aux nouvelles opportunités et collaborations. N'hésitez pas à me contacter !
