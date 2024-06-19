@@ -5,7 +5,7 @@
 Je suis un développeur passionné basé en Île-de-France. Actuellement étudiant en Ingénierie du Web à l'ESGI Paris, je suis spécialisé dans le développement Full-Stack, ainsi que dans l'intégration de solutions innovantes.
 
 * 🌍  Basé à Paris
-* 🖥️  Vous pouvez consulter mon portfolio ici -> [CHANG Toma](http://portfolio-chang-toma.000webhostapp.com/)
+* 🖥️  Vous pouvez consulter mon portfolio ici -> [CHANG Toma](https://chang-toma.netlify.app/)
 * ✉️  Vous pouvez me contacter à cette adresse -> [toma11chang@gmail.com](mailto:toma11chang@gmail.com)
 
 ### Compétences
