@@ -2,7 +2,7 @@
 
 ---------------------
 
-Je suis un développeur passionné basé en Île-de-France. Actuellement étudiant en Ingénierie du Web à l'ESGI Paris, je suis spécialisé dans le développement Full-Stack, ainsi que dans l'intégration de solutions innovantes.
+Je suis un développeur passionné basé en Île-de-France. Actuellement étudiant en Développement informatique à Ensitech, je suis spécialisé dans le développement Full-Stack, ainsi que dans l'intégration de solutions innovantes.
 
 * 🌍  Basé à Paris
 * 🖥️  Vous pouvez consulter mon portfolio ici -> [CHANG Toma](https://chang-toma.netlify.app/)
