@@ -1,6 +1,8 @@
 ---------------------
 
-Je suis un développeur passionné basé en Île-de-France. Actuellement étudiant en Développement informatique à Ensitech, je suis spécialisé dans le développement Full-Stack, ainsi que dans l'intégration de solutions innovantes.
+💻 Développeur Full-Stack passionné basé en Île-de-France, actuellement étudiant en Développement Informatique à Ensitech.
+🚀 Spécialisé dans le développement d’applications web modernes et l’intégration de solutions innovantes alliant performance et expérience utilisateur.
+🎯 Toujours curieux, toujours en quête de nouveaux défis techniques à relever.
 
 * 🌍  Basé à Paris
 * 🖥️  Vous pouvez consulter mon portfolio ici -> [CHANG Toma](https://www.codebytoma.me/)
