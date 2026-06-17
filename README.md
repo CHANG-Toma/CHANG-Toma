@@ -5,7 +5,7 @@
 🎯 Toujours curieux, toujours en quête de nouveaux défis techniques à relever.
 
 * 🌍  Basé à Paris
-* 🖥️  Vous pouvez consulter mon portfolio ici -> [CHANG Toma](https://www.codebytoma.me/)
+* 🖥️  Vous pouvez consulter mon portfolio ici -> [CHANG Toma](https://www.codebytoma.dev/)
 * ✉️  Vous pouvez me contacter à cette adresse -> [toma11chang@gmail.com](mailto:toma11chang@gmail.com)
 
 ### Réseaux sociaux
