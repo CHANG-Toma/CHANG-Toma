@@ -32,11 +32,6 @@
 
 ## `>_` Qui suis-je
 
-```diff
-+ Développeur Full-Stack · Master Lead Développeur Full-Stack
-! En recherche d'une alternance pour finaliser mon Master
-```
-
 Développeur Full-Stack en **dernière année de Master**, je gère en autonomie complète l'ensemble des projets informatiques de **Lamusée Paris** depuis 2024 — de l'architecture à la mise en production.
 
 Je construis des applications web modernes avec **React**, **Next.js**, **Symfony** et **Vue.js**.
@@ -73,16 +68,10 @@ portfolio: https://www.codebytoma.dev
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANG-Toma&show_icons=true&theme=tokyonight&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&ring_color=2DD4BF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANG-Toma&layout=compact&theme=tokyonight&hide_border=true&title_color=2DD4BF&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CHANG-Toma&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=00C9A7&currStreakLabel=2DD4BF)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CHANG-Toma&bg_color=0d1117&color=2dd4bf&line=00c9a7&point=e6fffa&area=true&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CHANG-Toma&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15)
-
 </div>
+
 ---
 
 ## `>_` Contribution snake
