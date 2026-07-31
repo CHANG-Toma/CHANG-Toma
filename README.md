@@ -69,42 +69,20 @@ portfolio: https://www.codebytoma.dev
 
 ---
 
-## `>_` Parcours
-
-| Période | Rôle | Entreprise |
-|:-------:|:-----|:-----------|
-| `2024 → ∞` | Alternant — Développeur Full-Stack | **Lamusée Paris** |
-| `2024 → ∞` | Auto-entrepreneur — Développeur Full-Stack | **CodeByToma** |
-| `2022 → 2023` | Alternant — Chargé de développement | **Numericli** |
-| `2022` | Stagiaire — Développeur web | **Banque Socredo** · Tahiti |
-
----
-
 ## `>_` GitHub Analytics
 
 <div align="center">
 
-  <!-- Trophées -->
-  <img src="https://github-profile-trophy.vercel.app/?username=CHANG-Toma&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="trophies" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANG-Toma&show_icons=true&theme=tokyonight&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&ring_color=2DD4BF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANG-Toma&layout=compact&theme=tokyonight&hide_border=true&title_color=2DD4BF&text_color=c9d1d9)
 
-  <br /><br />
+![GitHub Streak](https://streak-stats.demolab.com/?user=CHANG-Toma&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=00C9A7&currStreakLabel=2DD4BF)
 
-  <!-- Stats + Langues -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CHANG-Toma&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&ring_color=2DD4BF&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANG-Toma&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=c9d1d9&bg_color=00000000" alt="Top Langs" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CHANG-Toma&bg_color=0d1117&color=2dd4bf&line=00c9a7&point=e6fffa&area=true&hide_border=true)
 
-  <br />
-
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=CHANG-Toma&theme=transparent&hide_border=true&ring=2DD4BF&fire=00C9A7&currStreakLabel=2DD4BF&sideLabels=c9d1d9&dates=8B949E&background=00000000" alt="GitHub Streak" />
-
-  <br /><br />
-
-  <!-- Activity graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CHANG-Toma&theme=react-dark&bg_color=0d1117&color=2dd4bf&line=00c9a7&point=e6fffa&area=true&hide_border=true" alt="Activity Graph" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=CHANG-Toma&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15)
 
 </div>
-
 ---
 
 ## `>_` Contribution snake
@@ -115,36 +93,4 @@ portfolio: https://www.codebytoma.dev
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHANG-Toma/CHANG-Toma/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/CHANG-Toma/CHANG-Toma/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-## `>_` Connect
-
-<p align="center">
-  <a href="https://www.github.com/CHANG-Toma" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/toma-chang" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.codepen.io/CHANG-Toma" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  <a href="https://www.codebytoma.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" />
-  </a>
-  <a href="https://cvdesignr.com/p/D0olpdznxx2moVn" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CV-00C9A7?style=for-the-badge&logo=adobeacrobatreader&logoColor=0D1117" alt="CV" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0A3D3A,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=CHANG-Toma&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS" alt="profile views" />
-  <br /><br />
-  <code>⚡ En recherche d'une alternance — Master Lead Développeur Full-Stack</code>
 </div>
