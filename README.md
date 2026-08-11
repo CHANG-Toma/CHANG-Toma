@@ -32,11 +32,3 @@ En recherche d'une **alternance** pour finaliser mon Master.
 </p>
 
 ---
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=CHANG-Toma&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=00C9A7&currStreakLabel=2DD4BF)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0A3D3A,100:0D1117&height=90&section=footer&animation=fadeIn" width="100%" alt="footer" />
-
-</div>
