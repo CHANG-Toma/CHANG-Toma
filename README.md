@@ -9,7 +9,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codebytoma.dev-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://www.codebytoma.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codebytoma.dev-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://www.codebytoma.dev/portfolio)
 [![CV](https://img.shields.io/badge/CV-Voir-00C9A7?style=for-the-badge)](https://cvdesignr.com/p/D0olpdznxx2moVn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toma--chang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toma-chang)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toma11chang@gmail.com)
