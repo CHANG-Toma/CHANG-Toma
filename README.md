@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=560&height=70&lines=Full-Stack+Developer;%3C+React+%7C+Next.js+%7C+Symfony+%7C+Laravel+%2F%3E" alt="typing" />
 
 **Master Lead Développeur Full-Stack** · Ensitech · Yvelines  
-`⚡ Open to alternance`
+`⚡ En recherche d'une alternance`
 
 <br />
 
