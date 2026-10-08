@@ -21,8 +21,7 @@
 
 ### À propos
 
-Alternant Full-Stack chez **Lamusée Paris**, je gère les projets de bout en bout - architecture, dev, mise en prod.  
-En recherche d'une **alternance** pour finaliser mon Master.
+Alternant assistant chef de projet chez **Syngenta France**, je gère des projets - architecture, dev, mise en prod. 
 
 ---
 
