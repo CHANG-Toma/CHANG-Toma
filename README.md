@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:3B82F6&height=160&section=header&text=TOMA%20CHANG&fontSize=42&fontColor=F8FAFC&fontAlignY=40&animation=fadeIn" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&multiline=true&width=580&height=70&lines=Full-Stack+Developer+%26+Project+Lead;%3C+React+%7C+Next.js+%7C+Symfony+%7C+Laravel+%2F%3E" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&multiline=true&width=620&height=70&lines=Full-Stack+Developer+%26+Project+Lead;TypeScript+%7C+React+%7C+Next.js+%7C+Symfony+%7C+Docker" alt="typing" />
 
 **M2 Lead Developer Full-Stack** · ENSITECH SQY  
 Assistant Chef de Projet @ **Syngenta** · Freelance @ **CodeByToma**
@@ -28,7 +28,17 @@ Parcours full-stack + gestion de projet — aussi disponible via **[CodeByToma](
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,symfony,laravel,mysql,postgres,tailwind,docker,git" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,symfony,laravel,php,postgres,docker,git,tailwind,nginx,vercel" alt="stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
